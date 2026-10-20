@@ -4,3 +4,4 @@ var numero = 10;
     Depois altere o arquivo para:
     var numero = 20;
     console.log(numero);
+   
